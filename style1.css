@@ -1,0 +1,70 @@
+body
+{
+background-image:url("../image/images4.jpg");
+background-attachment:fixed;
+}
+h1
+{
+	color:yellow;
+	text-align:center;
+	padding-top:10px;
+}
+#tobpar
+{
+background-color:red;
+height:70px;
+width:100%;
+}
+#container
+{
+	background-color:#455908;
+	height:600px;
+	width:80%;
+	margin:0px auto;
+}
+#image img
+{
+	height:500px;
+	width:50%;
+	float:left;
+}
+#form
+{
+padding-top:30px;
+}
+#form label,option,h3,input type
+{
+padding-left:30px;
+}
+h3
+{
+margin-left:30px;
+}
+#table
+{
+	background-color:violet;
+	height:100 px;
+	width:100%;
+	margin-top:40px; 
+}
+#table table 
+{
+ background-color:#996d17;
+ float:center;
+ margin-left:180px;
+ 
+}
+#table tr,th,td
+{
+ border:1px solid black;
+ border-collapse:collapse;
+ text-align:left;
+ padding:20px;
+}
+#bottom
+{
+background-color:block;
+height:30px;
+width:100%;
+clear:both;
+}
